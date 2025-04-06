@@ -43,6 +43,13 @@ src="https://img.shields.io/github/followers/l1bz?logo=github&style=for-the-badg
 
 ### Курсы
 
+| Курс                                                                                          | Направление              | Дата прохождения  |
+| --------------------------------------------------------------------------------------------- | ------------------------ | ----------------- |
+| [Введение в программирование на языке Python. v1.4](https://edu.sirius.online/#/course/613)   | Основы языка python      | 30 ноября 2021 г. |
+| [Введение в программирование на языке Python. v1.6](https://edu.sirius.online/#/course/860)   | Основы языка python      | 31 июля 2022 г.   |
+| [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus)                     | Основы языка SQL         | -                 |
+| [Big Data и Data Science: начни погружение с нуля](https://stepik.org/course/101687/syllabus) | Аналитика и data science | -                 |
+
 
 ### Badges
 
